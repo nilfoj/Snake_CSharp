@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|c:\\users\\nilfo\\onedrive\\[oo]\\[oo] github\\games\\snake_csharp\\snake_csharp\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|c:\\users\\nilfo\\onedrive\\[oo]\\[oo] github\\games\\snake_csharp\\snake_csharp\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|solutionrelative:gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|c:\\users\\nilfo\\onedrive\\[oo]\\[oo] github\\games\\snake_csharp\\snake_csharp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|c:\\users\\nilfo\\onedrive\\[oo]\\[oo] github\\games\\snake_csharp\\snake_csharp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD13C0A-95CA-4973-8F5E-D403BE0B2B5C}|Snake_CSharp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:29:32.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\GridValue.cs",
+              "RelativeDocumentMoniker": "GridValue.cs",
+              "ToolTip": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\GridValue.cs",
+              "RelativeToolTip": "GridValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:27:15.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T02:21:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nilfo\\OneDrive\\[OO]\\[OO] GitHub\\Games\\Snake_CSharp\\Snake_CSharp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:21:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
